@@ -1,0 +1,6 @@
+{
+  "name": "Goldstone Studio",
+  "description": "Goldstone Studio - Yenilikçi ve Ergonomik Oyun Geliştirme Stüdyosu Resmi Websitesi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
